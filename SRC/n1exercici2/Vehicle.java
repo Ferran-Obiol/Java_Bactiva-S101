@@ -1,6 +1,9 @@
-package n2exercici2;
+package n1exercici2;
 
 public class Vehicle {
+
+    public Vehicle() {
+    }
 
     public void iniciar(){
         System.out.println("Funció iniciar.");

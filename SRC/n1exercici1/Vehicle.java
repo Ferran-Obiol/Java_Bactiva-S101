@@ -2,6 +2,9 @@ package n1exercici1;
 
 public class Vehicle {
 
+    public Vehicle() {
+    }
+
     public void iniciar(){
         System.out.println("Funció iniciar.");
     }
